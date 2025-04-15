@@ -20,3 +20,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SPLIT_HAND_PIN D5
 
 #define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 2)
+
+/*
+ #define TAPPING_TERM 175
+ #define TAPPING_TERM_PER_KEY
+ The TAPPING_TERM_PER_KEY definition
+ is only needed if you control the
+ tapping term through a custom
+ get_tapping_term function, which may
+ be needed because TAPPING_TERM
+ affects not just tap-dance keys.
+*/
